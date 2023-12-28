@@ -10,14 +10,6 @@
 
 <br/>
 
-## My Latest Articles
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@eng_ahmed.tarek/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@eng_ahmed.tarek/0" alt="Recent Article 0">
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@eng_ahmed.tarek/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@eng_ahmed.tarek/1" alt="Recent Article 1"/></a>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@eng_ahmed.tarek/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@eng_ahmed.tarek/2" alt="Recent Article 2"/></a>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@eng_ahmed.tarek/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@eng_ahmed.tarek/3" alt="Recent Article 3"/></a>
-
-<br/>
-
 ## If you want to support me:
 ▶ Check [my Website][Website]<br/>
 ▶ Subscribe to Medium using [my referral link][Membership]<br/>
