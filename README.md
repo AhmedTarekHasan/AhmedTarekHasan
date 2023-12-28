@@ -3,9 +3,9 @@
 <br/>
 
 ## About Me
-👫 Husband
-👦 Father
-👨‍💻 Software Design Engineer [@ASML][ASML]
+👫 Husband <br/>
+👦 Father <br/>
+👨‍💻 Software Design Engineer [@ASML][ASML] <br/>
 📰 Technical Blogger [@Development Simply Put][Blog] and [@Medium][Medium Blog]
 
 <br/>
