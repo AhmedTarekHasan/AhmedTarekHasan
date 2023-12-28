@@ -27,7 +27,7 @@ Husband 👫 Father 👦 Software Engineer (.NET, C#, JavaScript, TypeScript,...
 
 Thanks in advance 🙂
 
-[Ahmed Tarek Hasan]: https://medium.com/@eng_ahmed.tarek
+[Ahmed Tarek Hasan]: https://www.developmentsimplyput.com
 [Blog]: https://medium.com/@eng_ahmed.tarek
 [Membership]: https://medium.com/@eng_ahmed.tarek/membership
 [Subscribe]: https://medium.com/subscribe/@eng_ahmed.tarek
