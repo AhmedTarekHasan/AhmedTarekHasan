@@ -3,7 +3,10 @@
 <br/>
 
 ## About Me
-Husband 👫 Father 👦 Software Engineer (.NET, C#, JavaScript, TypeScript,...) 👨‍💻 [@ASML][ASML] and Technical Blogger 📰 [@Medium][Blog]
+👫 Husband
+👦 Father
+👨‍💻 Software Design Engineer [@ASML][ASML]
+📰 Technical Blogger [@Development Simply Put][Blog] and [@Medium][Medium Blog]
 
 <br/>
 
@@ -30,7 +33,8 @@ Thanks in advance 🙂
 
 [Ahmed Tarek Hasan]: https://www.developmentsimplyput.com
 [Website]: https://www.developmentsimplyput.com
-[Blog]: https://medium.com/@eng_ahmed.tarek
+[Blog]: https://www.developmentsimplyput.com/blog
+[Medium Blog]: https://medium.com/@eng_ahmed.tarek
 [Membership]: https://medium.com/@eng_ahmed.tarek/membership
 [Subscribe]: https://medium.com/subscribe/@eng_ahmed.tarek
 [Twitter]: https://twitter.com/AhmedTarekHasa1
