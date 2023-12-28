@@ -16,6 +16,7 @@ Husband 👫 Father 👦 Software Engineer (.NET, C#, JavaScript, TypeScript,...
 <br/>
 
 ## If you want to support me:
+▶ Check [my Website][Website]<br/>
 ▶ Subscribe to Medium using [my referral link][Membership]<br/>
 ▶ Subscribe to [Medium Newsletter][Subscribe]<br/>
 ▶ Subscribe to [LinkedIn Newsletter][Newsletter]<br/>
@@ -28,6 +29,7 @@ Husband 👫 Father 👦 Software Engineer (.NET, C#, JavaScript, TypeScript,...
 Thanks in advance 🙂
 
 [Ahmed Tarek Hasan]: https://www.developmentsimplyput.com
+[Website]: https://www.developmentsimplyput.com
 [Blog]: https://medium.com/@eng_ahmed.tarek
 [Membership]: https://medium.com/@eng_ahmed.tarek/membership
 [Subscribe]: https://medium.com/subscribe/@eng_ahmed.tarek
