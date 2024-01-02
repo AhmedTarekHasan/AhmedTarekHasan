@@ -21,8 +21,8 @@
 
 ## Newsletters:
 📰 Subscribe to [my Newsletter][DSP Subscribe]<br/>
-📰 Subscribe to [Medium Newsletter][Medium Subscribe]<br/>
-📰 Subscribe to [LinkedIn Newsletter][LinkedIn Newsletter]<br/>
+📰 Subscribe to [my Medium Newsletter][Medium Subscribe]<br/>
+📰 Subscribe to [my LinkedIn Newsletter][LinkedIn Newsletter]<br/>
 
 <br/>
 
