@@ -13,8 +13,6 @@
 ## Resources:
 👉 Check [my Website][DSP Website]<br/>
 👉 Check [my Blog][DSP Blog]<br/>
-👉 Check [my Blog][DSP Blog]<br/>
-👉 Check [my Blog][DSP Blog]<br/>
 👉 Check [my Print On Demand Products][DSP Stylish Designs]<br/>
 👉 Check [my Print On Demand YouTube Channel][DSP Stylish Designs YouTube Channel]<br/>
 
