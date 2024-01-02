@@ -3,37 +3,67 @@
 <br/>
 
 ## About Me
-👫 Husband <br/>
-👦 Father <br/>
-👨‍💻 Software Design Engineer 3 [@ASML][ASML] <br/>
-📰 Technical Blogger [@Development Simply Put][Blog] and [@Medium][Medium Blog]
+👫 Husband<br/>
+👦 Father<br/>
+👨‍💻 Software Design Engineer 3 [@ASML][ASML]<br/>
+📰 Technical Blogger [@Development Simply Put][DSP Blog] and [@Medium][Medium Blog]<br/>
+
+<br/>
+
+## Resources:
+👉 Check [my Website][DSP Website]<br/>
+👉 Check [my Blog][DSP Blog]<br/>
+👉 Check [my Blog][DSP Blog]<br/>
+👉 Check [my Blog][DSP Blog]<br/>
+👉 Check [my Print On Demand Products][DSP Stylish Designs]<br/>
+👉 Check [my Print On Demand YouTube Channel][DSP Stylish Designs YouTube Channel]<br/>
+
+<br/>
+
+## Newsletters:
+📰 Subscribe to [my Newsletter][DSP Subscribe]<br/>
+📰 Subscribe to [Medium Newsletter][Medium Subscribe]<br/>
+📰 Subscribe to [LinkedIn Newsletter][LinkedIn Newsletter]<br/>
+
+<br/>
+
+## Social Media:
+🕸 Follow me on [LinkedIn][LinkedIn]<br/>
+🕸 Follow me on [Twitter][Twitter]<br/>
 
 <br/>
 
 ## If you want to support me:
-▶ Check [my Website][Website]<br/>
-▶ Subscribe to Medium using [my referral link][Membership]<br/>
-▶ Subscribe to [Medium Newsletter][Subscribe]<br/>
-▶ Subscribe to [LinkedIn Newsletter][Newsletter]<br/>
-▶ Follow me on [Medium][Blog]<br/>
-▶ Follow me on [Twitter][Twitter]<br/>
-▶ Follow me on [LinkedIn][LinkedIn]
+⭐ Here is [my Patreon][Patreon]<br/>
+⭐ Here is [my BuyMeACoffee][BuyMeACoffee]<br/>
+⭐ Here is [my PaypalMe][PaypalMe]<br/>
+⭐ Subscribe to Medium using [my referral link][Medium Membership]<br/>
 
 <br/>
 
 Thanks in advance 🙂
 
 [Ahmed Tarek Hasan]: https://www.developmentsimplyput.com
-[Website]: https://www.developmentsimplyput.com
-[Blog]: https://www.developmentsimplyput.com/blog
+[DSP Website]: https://www.developmentsimplyput.com
+[DSP Blog]: https://www.developmentsimplyput.com/blog
+[DSP Subscribe]: https://www.developmentsimplyput.com/subscribe
+[DSP YouTube Channel]: https://www.youtube.com/@developmentsimplyput
+[DSP Stylish Designs]: https://www.developmentsimplyput.com/dsp-stylish-designs
+[DSP Stylish Designs YouTube Channel]: https://www.youtube.com/@DSPStylishDesigns
+
 [Medium Blog]: https://medium.com/@eng_ahmed.tarek
-[Membership]: https://medium.com/@eng_ahmed.tarek/membership
-[Subscribe]: https://medium.com/subscribe/@eng_ahmed.tarek
+[Medium Membership]: https://medium.com/@eng_ahmed.tarek/membership
+[Medium Subscribe]: https://medium.com/subscribe/@eng_ahmed.tarek
+
 [Twitter]: https://twitter.com/AhmedTarekHasa1
 [LinkedIn]: https://www.linkedin.com/in/atarekhasan/
-[Friend Links]: https://www.linkedin.com/feed/update/urn:li:activity:6866082670108143616/
-[Newsletter]: https://www.linkedin.com/newsletters/development-simply-put-6866647119655247872/
+[LinkedIn Newsletter]: https://www.linkedin.com/newsletters/development-simply-put-6866647119655247872/
+
 [ASML]: https://www.asml.com
+
+[Patreon]: http://patreon.com/ahmedtarekhasan
+[BuyMeACoffee]: https://www.buymeacoffee.com/ahmedtarekhasan
+[PaypalMe]: https://www.paypal.com/paypalme/DevelopmentSimplyPut
   
   
 <!--
