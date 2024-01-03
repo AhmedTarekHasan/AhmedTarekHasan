@@ -30,6 +30,9 @@
 ## Social Media:
 🕸 Follow me on [LinkedIn][LinkedIn]<br/>
 🕸 Follow me on [Twitter][Twitter]<br/>
+🕸 Follow me on [Quora][Quora]<br/>
+🕸 Follow me on [Flipboard][Flipboard]<br/>
+🕸 Follow me on [Pinterest][Pinterest]<br/>
 
 <br/>
 
@@ -56,6 +59,9 @@ Thanks in advance 🙂
 [Medium Membership]: https://medium.com/@eng_ahmed.tarek/membership
 [Medium Subscribe]: https://medium.com/subscribe/@eng_ahmed.tarek
 
+[Pinterest]: https://nl.pinterest.com/ahmedtarekhasan
+[Quora]: https://www.quora.com/profile/Ahmed-Tarek-1027
+[Flipboard]: https://flipboard.com/@ahmedtarekhasan
 [Twitter]: https://twitter.com/AhmedTarekHasa1
 [LinkedIn]: https://www.linkedin.com/in/atarekhasan/
 [LinkedIn Newsletter]: https://www.linkedin.com/newsletters/development-simply-put-6866647119655247872/
