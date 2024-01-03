@@ -7,6 +7,7 @@
 👦 Father<br/>
 👨‍💻 Software Design Engineer 3 [@ASML][ASML]<br/>
 📰 Technical Blogger [@Development Simply Put][DSP Blog] and [@Medium][Medium Blog]<br/>
+❓ [More about me?][DSP About Me]<br/>
 
 <br/>
 
@@ -45,6 +46,7 @@ Thanks in advance 🙂
 [Ahmed Tarek Hasan]: https://www.developmentsimplyput.com
 [DSP Website]: https://www.developmentsimplyput.com
 [DSP Blog]: https://www.developmentsimplyput.com/blog
+[DSP About Me]: https://www.developmentsimplyput.com/about-me
 [DSP Subscribe]: https://www.developmentsimplyput.com/subscribe
 [DSP YouTube Channel]: https://www.youtube.com/@developmentsimplyput
 [DSP Stylish Designs]: https://www.developmentsimplyput.com/dsp-stylish-designs
