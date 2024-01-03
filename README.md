@@ -59,7 +59,7 @@ Thanks in advance 🙂
 [Medium Membership]: https://medium.com/@eng_ahmed.tarek/membership
 [Medium Subscribe]: https://medium.com/subscribe/@eng_ahmed.tarek
 
-[Pinterest]: https://nl.pinterest.com/ahmedtarekhasan
+[Pinterest]: https://pinterest.com/ahmedtarekhasan
 [Quora]: https://www.quora.com/profile/Ahmed-Tarek-1027
 [Flipboard]: https://flipboard.com/@ahmedtarekhasan
 [Twitter]: https://twitter.com/AhmedTarekHasa1
